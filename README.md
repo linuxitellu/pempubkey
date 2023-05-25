@@ -1,7 +1,8 @@
 # pempubkey
-Easy create pubkey.pem
 
-```
+Easy create `pubkey.pem`
+
+```bash
 git clone https://github.com/linuxitellu/pempubkey.git
 cd pempubkey
 ./pubkeygen
@@ -12,7 +13,9 @@ Will automatically create `pubkey.pem` File
 ```bash
 cat pubkey.pem
 ```
+
 The PEM file format
+
 ```
 -----BEGIN RSA PUBLIC KEY-----
 MIICCgKCAgEA1CM+fMh3W5h1rIBTqvMb8qpCDDAEf7Hv7Moc0qDcz8EB4o8bI/CC
